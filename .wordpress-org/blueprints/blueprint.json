@@ -1,0 +1,17 @@
+{
+    "landingPage": "/wp-admin/admin.php?page=social-photo-feed-widget%2Fadmin.php",
+    "features": {
+        "networking": true
+    },
+    "steps": [
+        {
+            "step": "login"
+        },
+        {
+            "step": "setSiteOptions",
+            "options": {
+                "trustindex-feed-instagram-preview": "1"
+            }
+        }
+    ]
+}
